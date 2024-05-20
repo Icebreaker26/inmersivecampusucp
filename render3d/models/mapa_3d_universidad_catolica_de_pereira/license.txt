@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mapa 3D UNIVERSIDAD CATOLICA DE PEREIRA
+* source:	https://sketchfab.com/3d-models/mapa-3d-universidad-catolica-de-pereira-7ef4ca6f8acc420d8acf1a53888e0b1b
+* author:	icebreaker2608 (https://sketchfab.com/icebreaker2608)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mapa 3D UNIVERSIDAD CATOLICA DE PEREIRA" (https://sketchfab.com/3d-models/mapa-3d-universidad-catolica-de-pereira-7ef4ca6f8acc420d8acf1a53888e0b1b) by icebreaker2608 (https://sketchfab.com/icebreaker2608) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

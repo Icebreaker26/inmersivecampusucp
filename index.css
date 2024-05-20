@@ -2,7 +2,7 @@ body {
     width: 100vw;
     background-color: black;
     margin: 0rem;
-    overflow: hidden;
+    /*overflow: hidden;*/
   }
   
   #image-track {

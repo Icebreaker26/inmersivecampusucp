@@ -51,3 +51,4 @@ info.addEventListener("click", (e)=>{infoModal.toggle()});
 var infoModal = new bootstrap.Modal(document.getElementById('infoModal'), {
     keyboard: false
   })
+
