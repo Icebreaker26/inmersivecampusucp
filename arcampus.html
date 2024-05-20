@@ -48,12 +48,13 @@
 vr-mode-ui="enabled: false"
 arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; debugUIEnabled: false;'
  style="height: 20vh;">
-       
+    <!--
     <a-marker preset="kanji">
 
             <a-entity id="Entidad" gltf-model="url(../inmersiveCampus/assets/dog.glb)" rotation="270 0 0" scale="3 3 3" animation-mixer/>
 
     </a-marker>
+  -->
     <a-marker preset="hiro">
 
       <a-entity gltf-model="url(../inmersiveCampus/assets/logoU.glb)" rotation="270 0 0" scale="3 3 3" animation-mixer/>
@@ -70,7 +71,7 @@ arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280
     </a-marker>
     <!--MARKERS ALETHEIA-->
 
-    <a-marker id="markerAletheia" type="pattern" url="markers/pattern-ale.patt"> 
+    <a-marker id="markerAletheia" preset="kanji"> 
 
       <a-entity gltf-model="url(assets/models/aletheia.glb)" rotation="270 0 0" scale="3 3 3" animation-mixer/>
 
